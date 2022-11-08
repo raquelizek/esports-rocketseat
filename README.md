@@ -38,13 +38,10 @@ This project was developed with the following technologies and tools:
 - [Tailwindcss](https://tailwindcss.com/)
 - [NodeJS](https://nodejs.org/en/)
 - [Radix](https://www.radix-ui.com/)
-- [Cors](https://www.npmjs.com/package/cors)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Prisma ORM](https://www.prisma.io/)
 - [Express](http://expressjs.com/pt-br/)
-- [Phosphor Icons](https://phosphoricons.com/)
-- [Stylesheet](https://reactnative.dev/docs/stylesheet)
 - [Postman](https://www.postman.com/)
 - [VSCode](https://code.visualstudio.com/https://aws.amazon.com/pt/s3)
 
