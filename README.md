@@ -6,7 +6,7 @@
 </p>
 <br>
 
-## 💻 Projeto
+## 💻 Project
 
 The project eSports  aims to bring together common game players and so, through a publication, find a person with whom to play.
 
